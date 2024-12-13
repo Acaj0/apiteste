@@ -28,3 +28,4 @@ C:\Users\antonio.abreu\Documents\apiteste\obj\Debug\net8.0\refint\apiteste.dll
 C:\Users\antonio.abreu\Documents\apiteste\obj\Debug\net8.0\apiteste.pdb
 C:\Users\antonio.abreu\Documents\apiteste\obj\Debug\net8.0\apiteste.genruntimeconfig.cache
 C:\Users\antonio.abreu\Documents\apiteste\obj\Debug\net8.0\ref\apiteste.dll
+C:\Users\antonio.abreu\Documents\apiteste\obj\Debug\net8.0\apiteste.sourcelink.json
